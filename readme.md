@@ -1,6 +1,6 @@
 
 
-# Follow this video to be a ArgoCD Boss
+# Follow this video to be a ArgoCD Expert
 https://youtu.be/JLrR9RV9AFA
 
 
